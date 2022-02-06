@@ -11,3 +11,6 @@
 
 
  * A powerful discord server nuker bot
+
+Still under development, you may face bugs!
+Expect other cool features to come in future. :)
