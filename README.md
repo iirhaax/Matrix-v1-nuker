@@ -10,4 +10,4 @@
 8. Kick All Members
 
 
- *A powerful discord server nuker bot
+ * A powerful discord server nuker bot
