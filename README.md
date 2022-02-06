@@ -1,5 +1,5 @@
 # Matrix-v1-nuker
-# Features:
+## Features:
 1. Mass Create Channels
 2. Mass Create Channels & Ping
 3. Mass Create Roles
